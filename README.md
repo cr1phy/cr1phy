@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @criphy.
+- 👀 I’m interested in programming and drawing.
+- 🌱 I’m currently learning Rust.
